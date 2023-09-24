@@ -1,4 +1,0 @@
-Pokemon Name: Pikachu
-Abilities:
-- static
-- lightning-rod
