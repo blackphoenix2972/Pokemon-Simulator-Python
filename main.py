@@ -129,7 +129,7 @@ def main():
             return False
 
         else:
-            print("\nInvalid choice. Please select a valid option.\n")
+            print("\nInvalid choice. Please select a valid option. \n")
 
 
 def catchPokemonAndAddToInventory(pokemonData):
