@@ -5,4 +5,5 @@ This Python program interacts with the PokeAPI to allow users to catch and manag
 
 ## Program Output
 
-![image](https://github.com/blackphoenix2972/Pokemon-Simulator-Python/assets/65230233/43ed0c7d-67a4-49a4-8b6b-e60dd6cc489a)
+![image](https://github.com/blackphoenix2972/Pokemon-Simulator-Python/assets/65230233/71425aa2-ac01-4376-871a-78a306138ccb)
+
